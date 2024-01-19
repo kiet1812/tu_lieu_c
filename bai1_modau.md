@@ -11,7 +11,7 @@ int main(){
 }
 ```
 
-## **kiến thức cơ bản**
+## **Kiến thức cơ bản**
 
 ### **1. Khai báo biến**
 

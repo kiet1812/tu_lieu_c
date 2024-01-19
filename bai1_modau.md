@@ -2,6 +2,7 @@
 #include <bits/stdc++.h> // thư viện chuyên cho ae giải toán tin
 using namespace std; // tự lên gg tìm hiểu nha 
 // khai báo hàm main chính
+
 int main(){
 	cout<<"Hello world"; // in ra màn hình dòng chữ hello world
 	return 0; // trả về giá trị cho hàm
